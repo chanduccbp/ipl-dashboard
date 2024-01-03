@@ -1,0 +1,44 @@
+/* Write your CSS here */
+
+.t-bg-cont {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.t-cont {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'bree serif';
+  color: #ffffff;
+}
+
+.logo-cont {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: larger;
+}
+
+.logo {
+  width: 3%;
+  margin-right: 7px;
+}
+
+.teams {
+  width: 100%;
+  padding-left: 0px;
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+}

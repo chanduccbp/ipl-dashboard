@@ -1,0 +1,103 @@
+/* Write your CSS here */
+.td-cont-RCB {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #a4261d;
+}
+
+.td-cont-DC {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #4f5db0;
+}
+
+.td-cont-KXP {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #d91c1f;
+}
+
+.td-cont-SH {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #f26d22;
+}
+
+.td-cont-RR {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #da237b;
+}
+
+.td-cont-KKR {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #5755a7;
+}
+
+.td-cont-MI {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #13418b;
+}
+
+.td-cont-CSK {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #f7db00;
+}
+
+.td {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.t-banner {
+  width: 100%;
+}
+
+.lmc-list {
+  width: 100%;
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  font-family: 'bree serif';
+  color: #ffffff;
+}
+
+.td-head {
+  color: #ffffff;
+  font-family: 'bree serif';
+  text-align: start;
+  width: 100%;
+}

@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.lmc {
+  width: 31%;
+  background-color: #0f172a;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  border-radius: 10px;
+  margin: 10px;
+  height: 490px;
+}
+
+.lmc-head {
+  font-size: 24px;
+}
+
+.lmc-para {
+  text-align: center;
+}
+
+.lmc-pic {
+  width: 60%;
+}
+
+.won {
+  color: #18ed66;
+}
+
+.loss {
+  color: #e31a1a;
+}
